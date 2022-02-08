@@ -3,7 +3,7 @@
 Fonts
 ===============
 */
-@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
 
 /*
 =============== 
@@ -43,8 +43,8 @@ Variables
   --clr-green-dark: hsl(125, 67%, 44%);
   --clr-green-light: hsl(125, 71%, 66%);
   --clr-black: #222;
-  --ff-primary: 'Roboto', sans-serif;
-  --ff-secondary: 'Open Sans', sans-serif;
+  --ff-primary: "Roboto", sans-serif;
+  --ff-secondary: "Open Sans", sans-serif;
   --transition: all 0.3s linear;
   --spacing: 0.1rem;
   --radius: 0.25rem;
@@ -59,7 +59,7 @@ Global Styles
 ===============
 */
 
-*,
+/* *,
 ::after,
 ::before {
   margin: 0;
@@ -132,10 +132,10 @@ p {
   h4 {
     line-height: 1;
   }
-}
+} */
 /*  global classes */
 
-.btn {
+/* .btn {
   text-transform: uppercase;
   background: var(--clr-primary-5);
   color: var(--clr-primary-10);
@@ -153,10 +153,10 @@ p {
 .btn:hover {
   background: var(--clr-primary-8);
   color: var(--clr-primary-1);
-}
+} */
 
 /* section */
-.section {
+/* .section {
   padding: 1rem 0;
   position: relative;
 }
@@ -180,4 +180,4 @@ p {
 }
 main {
   padding-bottom: 2rem;
-}
+} */
